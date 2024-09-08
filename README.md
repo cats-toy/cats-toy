@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @cats-toy
-- 👀 I’m interested in cyber attacks and vulnerability assessments! for now anyways
-- 🌱 I’m currently learning cyber attack vectors and tools to detect and assess them.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hey, I'm Castor!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<!---
-cats-toy/cats-toy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  * 🤓Junior Cybersecurity Specialist
+  * 🖥Self-taught coder and ethical hacker
+  * 👾Passionate about all things hacking
+  * ☁Currently pursuing Azure Cloud certification
+  
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Cybersecurity Projects
+  * Vulnerability Management
+  * SIEM configuration
+  * Packet Sniffing
+  * Ethical hacking projects
+
+    
+## 👨‍💻Coding projects
+  * Keylogger
+
+    
+## 📜Certifications
+-  <a href="https://drive.google.com/file/d/1BPsiUToLswJCSdNgjiwAVpFBSjMcn6Kv/view?usp=sharing">CompTia Security Plus</a>
+
+  
+
+<h3 align='center'>Connect with Me</h3>
+
+<div style="margin-top: 10px" align="center">
+  <div>
+    <a href=www.linkedin.com/in/castor-malicdem-4191252a3 target="_blank">
+      <img src="https://img.shields.io/badge/Linkedin-blue" alt="linkedin profile">
+  </div>
+
+<h4>Still updating this page, once I finish up with my project links😅</h4>
