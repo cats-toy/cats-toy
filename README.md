@@ -26,7 +26,7 @@
 
 <div style="margin-top: 10px" align="center">
   <div>
-    <a href=www.linkedin.com/in/castor-malicdem-4191252a3 target="_blank">
+    <a href=https://www.linkedin.com/sharing/share-offsite/?url={www.linkedin.com/in/castor-malicdem-4191252a3} target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue" alt="linkedin profile">
   </div>
 
