@@ -2,12 +2,12 @@
 
   * 🤓Junior Cybersecurity Specialist
   * 🖥Self-taught coder and ethical hacker
-  * 👾Passionate about all things hacking
-  * ☁Currently pursuing Azure Cloud certification
+  * 👾Passionate about all things (ethical)hacking
+  * ☁Currently pursuing Azure Cloud certification`
   
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Cybersecurity Projects
-  * Vulnerability Management
+  * <a href='https://github.com/cats-toy/vulmanage'>Vulnerability Management</a>
   * SIEM configuration
   * Packet Sniffing
   * Ethical hacking projects
