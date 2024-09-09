@@ -7,7 +7,7 @@
   
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Cybersecurity Projects
-  * <a href='https://github.com/cats-toy/vulmanage'>Vulnerability Management</a>
+  * <a href='https://github.com/cats-toy/vulmanage' target='_blank'>Vulnerability Management</a>
   * SIEM configuration
   * Packet Sniffing
   * Ethical hacking projects
