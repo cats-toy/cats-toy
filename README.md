@@ -11,6 +11,7 @@
   * SIEM configuration
   * Packet Sniffing
   * Ethical hacking projects
+  * <a href='https://github.com/cats-toy/soclab/blob/main/README.md' target='_blank'>SOC</a>
 
     
 ## 👨‍💻Coding projects
