@@ -3,7 +3,7 @@
   * 🤓Junior Cybersecurity Specialist
   * 🖥Self-taught coder and ethical hacker
   * 👾Passionate about all things (ethical)hacking
-  * ☁Currently pursuing Azure Cloud certification`
+  * ☁Currently pursuing Azure Cloud Admin certification`
   
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Cybersecurity Projects
@@ -19,8 +19,8 @@
 
     
 ## 📜Certifications
--  <a href="https://drive.google.com/file/d/1BPsiUToLswJCSdNgjiwAVpFBSjMcn6Kv/view?usp=sharing">CompTia Security Plus</a>
-
+- <a href="https://drive.google.com/file/d/1BPsiUToLswJCSdNgjiwAVpFBSjMcn6Kv/view?usp=sharing">CompTia Security Plus</a>
+- <a href="https://learn.microsoft.com/en-us/users/castortroy-7685/transcript/vjw21hg8ezw5wxr">Azure Cloud Fundamentals</a>
   
 
 <h3 align='center'>Connect with Me</h3>
