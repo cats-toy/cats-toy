@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Castor!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hey!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
   * 🤓Junior Cybersecurity Specialist
   * 🖥Self-taught coder and ethical hacker
